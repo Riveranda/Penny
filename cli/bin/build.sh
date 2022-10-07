@@ -1,0 +1,1 @@
+dart compile exe Penny.dart -o ../Penny.exe

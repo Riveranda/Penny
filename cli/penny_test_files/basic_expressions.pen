@@ -1,0 +1,8 @@
+print(5)
+
+var a : int = 12
+
+var b : float = 12.3
+
+var c : string = "hello"
+
